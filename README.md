@@ -4,9 +4,7 @@ This repository contains two Docker-based projects.
 
 ## 🚀 Project 1 – SSH Connection Between Two Ubuntu Containers
 This project demonstrates setting up an SSH connection between two Ubuntu containers using Docker.
-[[[https://github.com/Sathvikmm18/Docker-Projects/blob/main/p1.png](https://github.com/Sathvikmm18/Docker-Projects/blob/84ed045cf7c8d7703b5a709de6e437be6e0da088/p1.png)](https://github.com/Sathvikmm18/Docker-Projects/blob/main/p1.png?raw=true)
-](https://github.com/Sathvikmm18/Docker-Projects/blob/main/p1.png?raw=true)
-
+https://github.com/Sathvikmm18/Docker-Projects/blob/ef0f9dd8c7de9a72f13389b1cd33a82bb5d1e5df/p1.png
 - The **first container** is configured as an **OpenSSH Server**.
 - The **second container** is configured as an **OpenSSH Client**.
 - Together, they enable secure SSH communication between containers, which is useful for testing container networking and security setups.
