@@ -1,16 +1,21 @@
 # Docker-Projects
 
-In Project1 - It Basically  Setting up SSH connection between two ubuntu conationers in Docker
+This repository contains two Docker-based projects.
 
- - It has the Empty Folder or file
- - But I have Create the ubuntu of 2 Images in it.
- - In first image i have config the Openssh-Server and in second image i Have created openshh-client
+## 🚀 Project 1 – SSH Connection Between Two Ubuntu Containers
+This project demonstrates setting up an SSH connection between two Ubuntu containers using Docker.
 
-   
-In Project2 - Dockerized the Apache Web Server
+- The **first container** is configured as an **OpenSSH Server**.
+- The **second container** is configured as an **OpenSSH Client**.
+- Together, they enable secure SSH communication between containers, which is useful for testing container networking and security setups.
+  
 
--To run open VS code in terminal 
->docker build -t my-apache-image .
->docker run -p 80:80 my-apache-image
+## 🌐 Project 2 – Dockerized Apache Web Server
+This project demonstrates how to containerize and run an Apache web server using Docker.
 
-In Browser --> Run localhost ==> We get the default Page of Apache Server
+### Steps to Run:
+1. Open VS Code (or your terminal) inside the `project2/` directory.
+2. Build the Docker image:
+   ```bash
+   docker build -t my-apache-image .
+
