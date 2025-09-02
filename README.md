@@ -21,5 +21,5 @@ This project demonstrates how to containerize and run an Apache web server using
    docker run -p 80:80 my-apache-image
  Now ,run localhost in browser   
 
- p2.png
+[ p2.png](https://github.com/Sathvikmm18/Docker-Projects/blob/7898aef6b68dc63e5c4f115c4c09c02e03682bbb/p2.png)
 
