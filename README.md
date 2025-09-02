@@ -23,3 +23,6 @@ This project demonstrates how to containerize and run an Apache web server using
 
 [ p2.png](https://github.com/Sathvikmm18/Docker-Projects/blob/7898aef6b68dc63e5c4f115c4c09c02e03682bbb/p2.png)
 
+![SSH Connection Setup](https://raw.githubusercontent.com/Sathvikmm18/Docker-Projects/main/p1.png)
+
+![Apache Server Demo](https://raw.githubusercontent.com/Sathvikmm18/Docker-Projects/main/p2.png)
