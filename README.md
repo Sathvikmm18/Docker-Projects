@@ -18,4 +18,6 @@ This project demonstrates how to containerize and run an Apache web server using
 2. Build the Docker image:
    ```bash
    docker build -t my-apache-image .
+   docker run -p 80:80 my-apache-image
+ Now ,run localhost in browser   
 
