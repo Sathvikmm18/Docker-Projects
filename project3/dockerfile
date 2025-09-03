@@ -6,4 +6,7 @@ COPY myapp /var/www/html
 
 EXPOSE 8081
 CMD [ "nginx" ,"-g","daemon off;" ] 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a465d07 (Adding project4)
