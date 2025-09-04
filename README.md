@@ -39,3 +39,6 @@ This project demonstrates how to containerize and run an Apache web server using
 
 <img width="2786" height="1434" alt="image" src="https://github.com/user-attachments/assets/58be6a7f-7189-4ebc-833e-8340e3a55f1e" />
 
+<img width="2782" height="1766" alt="image" src="https://github.com/user-attachments/assets/3dbde096-4d6b-444a-b712-9b37d106455c" />
+
+
